@@ -1,0 +1,10 @@
+rows=22716
+q33=49.1500, q66=75.4000
+accuracy=0.570523
+macro_precision=0.632810
+macro_recall=0.576940
+macro_f1=0.548152
+confusion_matrix=
+[[ 778  926  202]
+ [  52  632 1252]
+ [   0    7 1830]]

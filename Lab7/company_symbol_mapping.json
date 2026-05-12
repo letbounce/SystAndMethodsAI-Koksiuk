@@ -1,0 +1,12 @@
+{
+  "IBM": "International Business Machines",
+  "AAPL": "Apple Inc.",
+  "MSFT": "Microsoft Corporation",
+  "XRX": "Xerox Holdings Corporation",
+  "AMZN": "Amazon.com Inc.",
+  "DELL": "Dell Technologies Inc.",
+  "GOOGL": "Alphabet Inc. (Class A)",
+  "ADBE": "Adobe Inc.",
+  "^GSPC": "S&P 500 Index",
+  "^IXIC": "NASDAQ Composite Index"
+}

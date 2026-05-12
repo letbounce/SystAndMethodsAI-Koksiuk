@@ -1,0 +1,7 @@
+Symbols used (10): IBM, AAPL, MSFT, XRX, AMZN, DELL, GOOGL, ADBE, ^GSPC, ^IXIC
+Number of clusters: 4
+Exemplar per cluster (index in X -> ticker):
+  cluster 0: exemplar=DELL (row 5), members=['IBM', 'AAPL', 'MSFT', 'XRX', 'AMZN', 'DELL', 'ADBE']
+  cluster 1: exemplar=GOOGL (row 6), members=['GOOGL']
+  cluster 2: exemplar=^GSPC (row 8), members=['^GSPC']
+  cluster 3: exemplar=^IXIC (row 9), members=['^IXIC']
